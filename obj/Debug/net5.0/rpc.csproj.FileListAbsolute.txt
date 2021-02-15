@@ -1,0 +1,16 @@
+C:\Users\Nate9\Source\CodeWorks\rpc\bin\Debug\net5.0\rpc.exe
+C:\Users\Nate9\Source\CodeWorks\rpc\bin\Debug\net5.0\rpc.deps.json
+C:\Users\Nate9\Source\CodeWorks\rpc\bin\Debug\net5.0\rpc.runtimeconfig.json
+C:\Users\Nate9\Source\CodeWorks\rpc\bin\Debug\net5.0\rpc.runtimeconfig.dev.json
+C:\Users\Nate9\Source\CodeWorks\rpc\bin\Debug\net5.0\rpc.dll
+C:\Users\Nate9\Source\CodeWorks\rpc\bin\Debug\net5.0\ref\rpc.dll
+C:\Users\Nate9\Source\CodeWorks\rpc\bin\Debug\net5.0\rpc.pdb
+C:\Users\Nate9\Source\CodeWorks\rpc\obj\Debug\net5.0\rpc.csprojAssemblyReference.cache
+C:\Users\Nate9\Source\CodeWorks\rpc\obj\Debug\net5.0\rpc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nate9\Source\CodeWorks\rpc\obj\Debug\net5.0\rpc.AssemblyInfoInputs.cache
+C:\Users\Nate9\Source\CodeWorks\rpc\obj\Debug\net5.0\rpc.AssemblyInfo.cs
+C:\Users\Nate9\Source\CodeWorks\rpc\obj\Debug\net5.0\rpc.csproj.CoreCompileInputs.cache
+C:\Users\Nate9\Source\CodeWorks\rpc\obj\Debug\net5.0\rpc.dll
+C:\Users\Nate9\Source\CodeWorks\rpc\obj\Debug\net5.0\ref\rpc.dll
+C:\Users\Nate9\Source\CodeWorks\rpc\obj\Debug\net5.0\rpc.pdb
+C:\Users\Nate9\Source\CodeWorks\rpc\obj\Debug\net5.0\rpc.genruntimeconfig.cache
